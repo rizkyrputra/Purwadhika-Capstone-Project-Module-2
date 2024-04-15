@@ -75,6 +75,7 @@ Berdasarkan hasil Analisa Data, dapat disimpulkan bahwa:
 * Mengurangi armada TransJakarta untuk koridor Kampung Rambutan - Blok M karena memiliki pengguna yang sedikit, pengalokasian TransJakarta bisa untuk Koridor Cibubur - Balai Kota karena memiliki pengguna terbanyak rata rata setiap harinya.
 
 **Tableau**
+
 https://public.tableau.com/views/CapstoneProjectModul2-JCDSPurwadhika/Story1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
