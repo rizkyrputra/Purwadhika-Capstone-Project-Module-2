@@ -51,7 +51,13 @@ Dataset bersumber dari kaggle dan dapat diunduh pada Link : https://www.kaggle.c
 # **Data Cleaning**
 
 # **Analisa Data**
-
+1. Analisa Statistika Deskriptif
+2. Analisa Statistika Deskriptif untuk Data Kategorikal
+   - Menganalisa Peak Hour TransJakarta
+   - Menganalisa jumlah tapIn dan tapOut pada setiap halte TransJakarta
+   - Menganalisa usia pengguna TransJakarta
+   - Menganalisa corridor mana yang memiliki penumpang terbanyak & terdikit
+   
 # **Kesimpulan Dan Saran**
 
 **Kesimpulan**  
